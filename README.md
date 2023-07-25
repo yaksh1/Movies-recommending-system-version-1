@@ -3,7 +3,7 @@
 
 A content-based recommender system that recommends movies similar to the movie the user likes and analyses the sentiments of the reviews given by the user.
 
-Live demo: [Movie-recommender-system](https://movie-recommender-v-1.herokuapp.com/)
+Live demo: [Movie-recommender-system](https://huggingface.co/spaces/yaksh1/Movie-Recommender)
 
 ## Overview
 
